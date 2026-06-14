@@ -1,0 +1,6 @@
+{
+  "name": "Wallbox Pulsar Max Node-RED Controller",
+  "description": "Un pannello di controllo e simulatore interattivo per gestire la Wallbox Pulsar Max con un flusso Node-RED a doppia ridondanza (API + MQTT). Comprende setup configurabile, esportatore JSON del flusso e Consulente AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
